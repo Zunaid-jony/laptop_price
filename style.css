@@ -1,0 +1,32 @@
+#section1{
+    display: flex;
+    
+
+}
+.fast-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   margin-top: 40px;
+}
+.fast-div img{
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+}
+
+section input{
+    border-radius: 5px;
+    background-color: rgb(180, 207, 207);
+}
+section input:hover{
+    background-color: rgb(240, 231, 231);
+    
+}
+.cart-item{
+	background-color: rgb(214, 199, 199);
+	border-radius: 10px;
+	padding: 5px 20px;
+	margin-bottom: 10px;
+}
